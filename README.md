@@ -1,1 +1,1 @@
-# bkydnews
+# studentnews
